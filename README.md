@@ -9,6 +9,6 @@ The chronological sorting does not properly work, as EXIF parsing would be requi
 </div>
 
 ## Building on Windows
-Run the `build.bat` script from the _"x64 Native Tools Command Prompt"_ or from any command prompt with the vcvars64.bat environment.\
+Run the `build.bat` script from the Microsoft Visual Studio _"x64 Native Tools Command Prompt"_ or from any command prompt with the vcvars64.bat environment.\
 If you want to build [raylib](https://github.com/raysan5/raylib) yourself, make sure to enable all the file formats for image loading in `config.h`.\
 Alternatively, a prebuilt windows executable is already located in the build directory.
