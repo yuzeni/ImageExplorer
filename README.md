@@ -5,7 +5,7 @@ All non-self-explanatory controls are explained upon starting the program. Other
 The chronological sorting does not properly work, as EXIF parsing would be required for that kind of information.
 
 <div align="center">
-<img src="https://github.com/yuzeni/ImageExplorer/blob/main/misc/demo.jpg" alt="demo" width="600"/>
+<img src="https://github.com/yuzeni/ImageExplorer/blob/main/misc/demo.jpg" alt="demo" width="800"/>
 </div>
 
 ## Building on Windows
