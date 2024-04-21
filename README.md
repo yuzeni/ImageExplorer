@@ -2,7 +2,7 @@
 This is a basic image viewer, built on [raylib](https://github.com/raysan5/raylib), made for exploring any heap of files and folders for images.\
 It may or may not crash on you ;)\
 All non-self-explanatory controls are explained upon starting the program. Otherwise, just click around!\
-The chronological sorting does not properly work, as EXIF parsing would be required for that kind of information.
+The chronological sorting does not work properly, as EXIF parsing would be required for that kind of information.
 
 <div align="center">
 <img src="https://github.com/yuzeni/ImageExplorer/blob/main/misc/demo.jpg" alt="demo" width="800"/>
